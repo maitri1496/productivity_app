@@ -1,0 +1,11 @@
+{
+  "task": "Tareas",
+  "save": "Ahorrar",
+  "update": "Actualizar",
+  "delete": "Borrar",
+  "title": "Título",
+  "description": "Descripción",
+  "category": "Categoría",
+  "addTask": "Agregar tarea",
+  "editTask": "Editar tarea"
+}

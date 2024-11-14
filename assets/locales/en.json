@@ -1,0 +1,11 @@
+{
+  "task": "Tasks",
+  "save": "Save",
+  "update": "Update",
+  "delete": "Delete",
+  "title": "Title",
+  "description": "Description",
+  "category": "Category",
+  "addTask": "Add Task",
+  "editTask": "Edit Task"
+}
